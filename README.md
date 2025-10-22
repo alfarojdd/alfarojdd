@@ -1,19 +1,18 @@
 <!-- README de perfil de GitHub -->
 <h1 align="center">👨‍🚀 Juan de Dios Alfaro López</h1>
-<h3 align="center">Robótica · IA · Visión por Computador · Curiosidad Infinita</h3>
+<h3 align="center">Robótica · IA · Visión por Computador · Curiosidad</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Apasionado+por+la+robótica+y+el+RL;Siempre+aprendiendo+y+experimentando!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Apasionado+por+la+robótica;Siempre+aprendiendo+y+experimentando!&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🧠 Estudiante de Ingeniería Informática en la Universidad de Málaga (2020-2025)
+- 🧠 Ingeniería Informática en la Universidad de Málaga (2020-2025)
 - 🤖 TFG: Aprendizaje por refuerzo para aparcamiento autónomo con TurtleBot3 + MuJoCo
-- 🛰️ Prácticas en el Laboratorio de Robótica Espacial (DINOv2 + visión satelital)
-- 🤓 Fan de los notebooks bien comentados y los GIFs de robots fallando
+- 🛰️ Prácticas en el Laboratorio de Robótica Espacial
 
 ---
 
@@ -42,7 +41,7 @@
 ## 🌱 ¿Ahora qué?
 
 Estoy:
-- 🧪 Diseñando notebooks para `hands-on-rl`
+- 🧪 Trabajando en UMA SRL hasta llegar a Marte
 
 ---
 
