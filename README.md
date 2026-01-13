@@ -1,22 +1,23 @@
 <!-- README de perfil de GitHub -->
 <h1 align="center">👨‍🚀 Juan de Dios Alfaro López</h1>
-<h3 align="center">Robótica · IA · Visión por Computador · Curiosidad</h3>
+<h3 align="center">Robotics · AI · Computer Vision · Autonomous Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Apasionado+por+la+robótica;Siempre+aprendiendo+y+experimentando!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;MSc+in+Mechatronics+Engineering;Research+Fellow;Always+building+and+learning&center=true&width=520&height=45">
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-- 🧠 Ingeniería Informática en la Universidad de Málaga (2020-2025)
-- 🤖 TFG: Aprendizaje por refuerzo para aparcamiento autónomo con TurtleBot3 + MuJoCo
-- 🛰️ Prácticas en el Laboratorio de Robótica Espacial
+- 🎓 **Computer Engineer** — University of Málaga  
+- 🎓 **MSc Student in Mechatronics Engineering** — University of Málaga  
+- 🧪 **Research Fellow** — Space Robotics Laboratory (SRL)  
+- 🤖 Final Degree Project: **Reinforcement Learning for Autonomous Parking**
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -29,14 +30,15 @@
 
 ---
 
-## 🌱 ¿Ahora qué?
+## 🌱 Currently
 
-Estoy:
-- 🧪 Trabajando en UMA SRL hasta llegar a Marte
+- 🧠 Learning-based robotics & autonomous systems  
+- 🗺️ 3D reconstruction & multiview geometry  
+- 🛰️ AI for visual understanding  
 
 ---
 
-## 📬 ¡Conectemos!
+## 📬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alfarojdd/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -46,4 +48,4 @@ Estoy:
 
 ---
 
-<p align="center"><i>"El mejor aprendizaje es el que haces mientras construyes cosas que te apasionan."</i></p>
+<p align="center"><i>"The best way to learn is by building things you truly care about."</i></p>
