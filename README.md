@@ -29,15 +29,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfarojdd&show_icons=true&theme=radical&hide=prs" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfarojdd&layout=compact&theme=radical" width="42%"/>
-</p>
-
----
-
 ## 🌱 ¿Ahora qué?
 
 Estoy:
